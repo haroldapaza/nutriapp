@@ -1,0 +1,31 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="zhuoyuan.li.fluttershareme" >
+4
+5    <uses-sdk android:minSdkVersion="16" />
+5-->C:\flutter\.pub-cache\hosted\pub.dartlang.org\flutter_share_me-0.1.3\android\src\main\AndroidManifest.xml
+6
+7    <uses-permission android:name="android.permission.INTERNET" />
+7-->C:\flutter\.pub-cache\hosted\pub.dartlang.org\flutter_share_me-0.1.3\android\src\main\AndroidManifest.xml:3:5-67
+7-->C:\flutter\.pub-cache\hosted\pub.dartlang.org\flutter_share_me-0.1.3\android\src\main\AndroidManifest.xml:3:22-64
+8
+9    <application>
+9-->C:\flutter\.pub-cache\hosted\pub.dartlang.org\flutter_share_me-0.1.3\android\src\main\AndroidManifest.xml:4:5-12:19
+10        <meta-data
+10-->C:\flutter\.pub-cache\hosted\pub.dartlang.org\flutter_share_me-0.1.3\android\src\main\AndroidManifest.xml:5:9-7:47
+11            android:name="com.facebook.sdk.ApplicationId"
+11-->C:\flutter\.pub-cache\hosted\pub.dartlang.org\flutter_share_me-0.1.3\android\src\main\AndroidManifest.xml:6:13-58
+12            android:value="343254889799245" />
+12-->C:\flutter\.pub-cache\hosted\pub.dartlang.org\flutter_share_me-0.1.3\android\src\main\AndroidManifest.xml:7:13-44
+13
+14        <provider
+14-->C:\flutter\.pub-cache\hosted\pub.dartlang.org\flutter_share_me-0.1.3\android\src\main\AndroidManifest.xml:8:9-11:39
+15            android:name="com.facebook.FacebookContentProvider"
+15-->C:\flutter\.pub-cache\hosted\pub.dartlang.org\flutter_share_me-0.1.3\android\src\main\AndroidManifest.xml:9:13-64
+16            android:authorities="com.facebook.app.FacebookContentProvider343254889799245"
+16-->C:\flutter\.pub-cache\hosted\pub.dartlang.org\flutter_share_me-0.1.3\android\src\main\AndroidManifest.xml:10:13-90
+17            android:exported="true" />
+17-->C:\flutter\.pub-cache\hosted\pub.dartlang.org\flutter_share_me-0.1.3\android\src\main\AndroidManifest.xml:11:13-36
+18    </application>
+19
+20</manifest>
