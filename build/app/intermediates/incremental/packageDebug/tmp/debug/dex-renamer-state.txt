@@ -1,4 +1,4 @@
-#Tue Dec 28 22:57:50 COT 2021
-base.0=C\:\\proyectosfluter\\ProyectosFlutter\\nutriapp\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+#Sat Apr 16 11:04:55 COT 2022
+base.0=C\:\\proyectosfluter\\ProyectosFlutter\\Nueva carpeta (3)\\nutriapp\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 renamed.0=classes.dex
 path.0=classes.dex

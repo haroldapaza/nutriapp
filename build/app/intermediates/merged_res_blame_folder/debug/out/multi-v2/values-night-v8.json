@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\proyectosfluter\\ProyectosFlutter\\nutriapp\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
+            "outputFile": "C:\\proyectosfluter\\ProyectosFlutter\\Nueva carpeta (3)\\nutriapp\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
             "map": [
                 {
-                    "source": "C:\\proyectosfluter\\ProyectosFlutter\\nutriapp\\android\\app\\src\\main\\res\\values-night\\styles.xml",
+                    "source": "C:\\proyectosfluter\\ProyectosFlutter\\Nueva carpeta (3)\\nutriapp\\android\\app\\src\\main\\res\\values-night\\styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
